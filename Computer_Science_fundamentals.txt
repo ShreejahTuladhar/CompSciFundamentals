@@ -1,0 +1,75 @@
+Computer Science fundamentals:
+
+Computer is an electronic device that can recieve, store, process, and output data.
+
+Computer consists of hardwares such as CPU, memory storage, input/output, peripherals, as well as software components such as operating systems and applications.
+
+The first computer was invented by Charles Babbage (1822) but was not built until 1991! Alan Turing invented computer science. The ENIAC (1945) was the first electronic general-purpose digital computer; it's size filled a room.
+
+Data: raw facts and figures fed into the computer along with the set of information which enables the computer to convert this raw data into useful and readable information.
+
+Information: it is the meaningful form of data. // usually data stored in computer is 0's and 1's, binary format which in not understandable by normal users.
+
+Classification of Computers:
+1.Digital Computers
+2.Analog Computers
+3.Hybrid Computers
+4.Super Computers
+5.Mainframe Computers
+6.Mini Computers
+7.Personal Computers
+8.Workstaions
+9.Embedded Systems
+10.Mobile Devices
+
+
+Peripheral devices:
+*Keyboard
+*Mouse
+*Light Pen
+*Optical/magnetic Scanner
+*Touch Screen
+*MicroPhone
+*Track Ball
+*Monitor
+*Printers
+*plotter
+*Speaker
+
+
+RAM stands for Random Access Memory. RAM is a type of primary memory in computer and other computing devices. RAM is made up of semiconductors, thus it is a type of semiconductor memory. RAM allows the user/CPU to randomly access any part of the data regardless of its position. RAM is a volatile memory which means the data in RAM is dependent on the power supply and as lost when power is switched off.
+
+RAM is classified into two categories− Static RAM (SRAM) and Dynamic RAM (DRAM). SRAM uses transistors and capacitors in its circuit to store data, whereas DRAM uses digital circuit (called flip−flops) to store data in the form of binary digits.
+
+The CPU of a computer can directly access all the cells of RAM. Thus, its read/write speed is very high
+
+
+HDD stands for Hard Disc Drive. In computer systems, HDD is the most widely used secondary storage device. It consists of platter (disks) of non−magnetic material which are coated with a layer of magnetic material. In HDD, the data is stored using magnetic field. For this purpose movable magnetic reader arm is used that can slide over the platters. Hence, HDD is a magnetic memory.
+
+HDDs are very popular in desktops computers and laptops. Since it is a secondary storage device, the CPU cannot directly access data stored in it. But, the data of HDD is first copied into the RAM, and then supplied to the CPU for processing. However, in newer computers and laptops, the HDDs are being replaced by SSDs (Solid State Drives).
+
+
+Types of Software:
+System Software: software required for the computers to run. Operating system is an example. People used to manually have to insert commands using punch card or magnetic tape before there were operating systems.
+
+
+Application Software: These are software that aren't necesaary for the computers to run but they offer some powerful functionalities. Examples are Facebook, Emails, Notepad, Games etc. 
+
+
+
+
+Characteristics of Computer:
+
+Speed: multiple tasks and calculations can be done withing seconds. The speed of computers is measured on Gigahertz and Megahertz
+
+Accuracy:  Computers perform all jobs with 100% accuracy upto it's capacity provided that the input is correct.
+
+Memory: Can store large amount of data. Measured in terms of Bytes, MB,KB,GB,TB etc.
+
+Versatility: Capable of performing more than one task.
+
+Automation: instructions to create a repeated process that replaces manual work.
+
+
+
+
